@@ -19,6 +19,7 @@ public class Main {
         System.out.print("\n" + aFoo + "\n" + bFoo );
         //------------------------------------------------
         // Uebung 4
+
     }
     static void PrintArray( float[] fa){
         for (int i = 0; i < fa.length ; i++){
